@@ -50,4 +50,4 @@ Here are the commands to check the logs
 - check previous boot logs `journalctl -b -1`
 
 ## Author
-[AnotherRusty](https://t.me/idioRusty)
+[aimaster-dev](https://t.me/aimasterdev)
