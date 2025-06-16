@@ -31,7 +31,7 @@ def fix_venv(c: Context) -> None:
 
 
 def main() -> None:
-    ns = Collection("solbot")
+    ns = Collection("solbot") 
     tasks = [
         fix_venv,
     ]
